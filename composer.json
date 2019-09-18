@@ -1,12 +1,13 @@
 {
     "name": "awuniversity/oauth2-client",
-    "description": "OAuth 2.0 Client",
+    "description": "OAuth 2.0 Client Common",
     "license": "MIT",
     "config": {
         "sort-packages": true
     },
+    "minimum-stability": "stable",
     "require": {
-        "php": "^7.0",
+        "php": "^7.1",
         "guzzlehttp/guzzle": "^6.0",
         "paragonie/random_compat": "^1|^2|^9.99"
     },
@@ -22,7 +23,7 @@
     ],
     "authors": [
         {
-            "name": "JZ"
+            "name": "Jurek"
         }
     ],
     "autoload": {

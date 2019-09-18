@@ -1,6 +1,6 @@
 {
     "name": "awuniversity/oauth2-client",
-    "description": "OAuth 2.0 Client Library",
+    "description": "OAuth 2.0 Client",
     "license": "MIT",
     "config": {
         "sort-packages": true
@@ -22,7 +22,7 @@
     ],
     "authors": [
         {
-            "name": "Firstname Lastname"
+            "name": "JZ"
         }
     ],
     "autoload": {
